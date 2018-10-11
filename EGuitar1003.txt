@@ -5,26 +5,26 @@
 
 </head>
 	<body>
-	<button onclick=" window.open('https://www.youtube.com/', '_blank'); 		return false;">Live</button>
-	<button onclick=" window.open('https://www.youtube.com/', '_blank'); 		return false;">Record</button>
-	<button onclick=" window.open('file:///F:/EGuitar1003/Archives.html', '_blank'); 		return false;">Archives</button>
+	<
+	<button onclick=" window.open('https://www.youtube.com/', '_blank'); return false;">Live</button>
+	<button onclick=" window.open('https://www.youtube.com/', '_blank'); return false;">Record</button>
+	<button onclick=" window.open('file:///F:/EGuitar1003/Archives.html', '_blank'); return false;">Archives</button>
 
 		<h2 title="Our Goal">Our Goal</h2>
 			<p>
-				By reinventing the possibilities of making 					music, we hope that you will enjoy the sleek, 					portable design of the EGuitar1003. With the 					incorporation of a computer and mobile site, 					the EGuitar1003 plays the part of a musician's 					notebook.
+				By reinventing the possibilities of making music, we hope that you will enjoy the sleek, 				portable design of the EGuitar1003. With the incorporation of a computer and mobile site, the 					EGuitar1003 plays the part of a musician's notebook.
 			</p>
 
 		<h2 title="Begin to Play">Begin to Play</h2>
 			<ul>
 				<li>
-					Live projects the sounds played by the 					user directly following each strum.
+					Live projects the sounds played by the user directly following each strum.
 				</li>
 				<li>
-					Record saved sequences of plays by 					the user.
+					Record saved sequences of plays by the user.
 				</li>
 				<li>
-					Archives stores all recorded files 
-					for reference.
+					Archives stores all recorded files for reference.
 				</li>
 			</ul>
 
