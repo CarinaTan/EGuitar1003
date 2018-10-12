@@ -4,5 +4,6 @@ EGuitar1003 is a HTML site allowing EGuitar1003 users to create, record, and doc
 
 The easily accessible and free site is a way for musicians, from beginners to pros, to "jot down" their musical creations. The product and site targets those who are looking for a portable and inexpensive way to play.
 
-![eguitar1003 logo 2](https://user-images.githubusercontent.com/43764238/46842357-32296a00-cd9b-11e8-9e66-d62716fd6cfc.jpg)
+![logo](https://user-images.githubusercontent.com/43764238/46842602-78cb9400-cd9c-11e8-91d0-4fc10f53cab4.png)
+
 
