@@ -1,39 +1,70 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-<title>EGuitar1003</title>
-
+	<!-- Bootstrap -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<link href="https://fonts.googleapis.com/css?family=Advent+Pro|Bad+Script|Caveat|Josefin+Slab|Julius+Sans+One|Kalam|Kaushan+Script|Megrim|Nothing+You+Could+Do|Old+Standard+TT|Open+Sans+Condensed:300|Poiret+One|Quicksand|Raleway|Satisfy" rel="stylesheet">
+	<style>
+	body {
+		background-image:
+	url("https://user-images.githubusercontent.com/43764238/46848568-a3c3e100-cdb8-11e8-9cfc-4d788ab5d148.jpg"), url("https://user-images.githubusercontent.com/43764238/46849042-59902f00-cdbb-11e8-9f63-04460d6ff420.jpg");
+		background-repeat:no-repeat, no-repeat;
+		background-position:right top, left bottom;
+		background-size: 500px 500px, 300px 300px;
+		background-attachment: fixed, fixed;
+	}
+	.button {
+		border-radius: 12px;
+		color: #E5072C;
+		background-color: none;
+		border-color: #F7F2DF;
+		padding: 20px 30px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-family:'Megrim', cursive;
+		font-size: 16px;
+		margin: 4px 3px;
+		cursor: pointer;
+	}
+	</style>
 </head>
 	<body>
-	<
+	
+	<img src="https://user-images.githubusercontent.com/43764238/46848889-62cccc00-cdba-11e8-9dcb-c7eae3ea8e02.jpg"
+		alt="EGuitar1003 Logo" width="300" height="290">
+	
 	<button onclick=" window.open('https://www.youtube.com/', '_blank'); return false;">Live</button>
 	<button onclick=" window.open('https://www.youtube.com/', '_blank'); return false;">Record</button>
 	<button onclick=" window.open('file:///F:/EGuitar1003/Archives.html', '_blank'); return false;">Archives</button>
+			
+		<h1 title="Our Goal" style="color:#E5072C; font-family:'Megrim', cursive; font-size:250%">Our Goal</h1>
+		<p style="color:##010101;font-family: 'Nothing You Could Do', cursive;font-size:150%; letter-spacing:0.1px; line-height:1.5">
+			By reinventing the possibilities of making music, we hope that you will enjoy the sleek, portable design of the EGuitar1003. With the incorporation of a computer and mobile site, the EGuitar1003 plays the part of a musician's notebook.
+		</p>
 
-		<h2 title="Our Goal">Our Goal</h2>
-			<p>
-				By reinventing the possibilities of making music, we hope that you will enjoy the sleek, 				portable design of the EGuitar1003. With the incorporation of a computer and mobile site, the 					EGuitar1003 plays the part of a musician's notebook.
-			</p>
+		<h1 title="Begin to Play" style="color:#E5072C; font-family:'Megrim', cursive; font-size:250%">Begin to Play</h1>
+		<ul style="color:#010101;font-family: 'Nothing You Could Do', cursive;font-size:150%; letter-spacing:0.1px; line-height:1.5">
+			<li>
+				Live projects the sounds played by the user directly following each strum.
+			</li>
+			<li>
+				Record saved sequences of plays by the user.
+			</li>
+			<li>
+				Archives stores all recorded files for reference.
+			</li>
+		</ul>
 
-		<h2 title="Begin to Play">Begin to Play</h2>
-			<ul>
-				<li>
-					Live projects the sounds played by the user directly following each strum.
-				</li>
-				<li>
-					Record saved sequences of plays by the user.
-				</li>
-				<li>
-					Archives stores all recorded files for reference.
-				</li>
-			</ul>
+		<h2 title="Sound Library" style="color:#E5072C; font-family:'Megrim', cursive; font-size:250%">Sound Library</h2>
+		<ol style="color:#010101;font-family: 'Nothing You Could Do', cursive;font-size:150%; letter-spacing:0.1px; line-height:1.5">
+			<li>Classic Acoustic</li>
+			<li>Ukelele</li>
+			<li>Classic Rock</li>
+		</ol>
 
-		<h2 title="Sound Library">Sound Library</h2>
-			<ol>
-				<li>Classic Acoustic</li>
-				<li>Ukelele</li>
-				<li>Classic Rock</li>
-			</ol>
+		<!-- Bootstrap -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 	</body>
 </html>
 
